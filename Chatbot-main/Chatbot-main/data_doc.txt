@@ -1,0 +1,34 @@
+For the bot-creation software, see ChatBot. For bots on Internet Relay Chat, see IRC bot.
+
+A virtual assistant chatbot
+
+The 1966 ELIZA chatbot
+Part of a series on
+Machine learning
+and data mining
+Paradigms
+Problems
+Supervised learning
+(classification • regression)
+Clustering
+Dimensionality reduction
+Structured prediction
+Anomaly detection
+Artificial neural network
+AutoencoderDeep learningFeed forward neural network Recurrent neural network LSTMGRUESNreservoir computing Boltzmann machine RestrictedGAN Diffusion mode lSOM Convolutional neural network U-NetLeNetAlex NetDeep Dream Neural radiance field Transformer VisionMambaSpiking neural network Mem transistor Electrochemical RAM (ECRAM)
+Reinforcement learning
+Learning with humans
+Model diagnostics
+Mathematical foundations
+Journals and conferences
+Related articles
+vte
+A chatbot (originally chatterbot)[1] is a software application or web interface designed to have textual or spoken conversations.[2][3][4] Modern chatbots are typically online and use generative artificial intelligence systems that are capable of maintaining a conversation with a user in natural language and simulating the way a human would behave as a conversational partner. Such chatbots often use deep learning and natural language processing, but simpler chatbots have existed for decades.
+
+Although chatbots have existed since the late 1960s, the field gained widespread attention in the early 2020s due to the popularity of OpenAI's ChatGPT,[5][6] followed by alternatives such as Microsoft's Copilot and Google's Gemini.[7] Such examples reflect the recent practice of basing such products upon broad foundational large language models, such as GPT-4 or the Gemini language model, that get fine-tuned so as to target specific tasks or applications (i.e., simulating human conversation, in the case of chatbots). Chatbots can also be designed or customized to further target even more specific situations and/or particular subject-matter domains.[8]
+
+A major area where chatbots have long been used is in customer service and support, with various sorts of virtual assistants.[9] Companies spanning a wide range of industries have begun using the latest generative artificial intelligence technologies to power more advanced developments in such areas.[8]
+
+History
+Turing test
+In 1950, Alan Turing's famous article "Computing Machinery and Intelligence" was published,[10] which proposed what is now called the Turing test as a criterion of intelligence. This criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge to the extent that the judge is unable to distinguish reliably—on the basis of the conversational content alone—between the program and a real human.

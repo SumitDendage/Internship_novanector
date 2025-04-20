@@ -1,0 +1,1 @@
+A simple face detection project uses OpenCV and Python to identify faces in images or live video. It employs a pre-trained Haar cascade classifier to detect faces by converting images to grayscale and applying detection algorithms. Bounding boxes highlight detected faces, making it useful for security, surveillance, and human-computer interaction applications.
